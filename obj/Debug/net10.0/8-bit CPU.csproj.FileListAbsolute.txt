@@ -1,0 +1,14 @@
+E:\dotnet\8-bit CPU\bin\Debug\net10.0\8-bit CPU.exe
+E:\dotnet\8-bit CPU\bin\Debug\net10.0\8-bit CPU.deps.json
+E:\dotnet\8-bit CPU\bin\Debug\net10.0\8-bit CPU.runtimeconfig.json
+E:\dotnet\8-bit CPU\bin\Debug\net10.0\8-bit CPU.dll
+E:\dotnet\8-bit CPU\bin\Debug\net10.0\8-bit CPU.pdb
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\8-bit CPU.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\8-bit CPU.AssemblyInfoInputs.cache
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\8-bit CPU.AssemblyInfo.cs
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\8-bit CPU.csproj.CoreCompileInputs.cache
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\8-bit CPU.dll
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\refint\8-bit CPU.dll
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\8-bit CPU.pdb
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\8-bit CPU.genruntimeconfig.cache
+E:\dotnet\8-bit CPU\obj\Debug\net10.0\ref\8-bit CPU.dll
